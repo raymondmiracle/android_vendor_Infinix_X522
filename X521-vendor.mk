@@ -1,0 +1,1 @@
+$(call inherit-product, vendor/Infinix/X521/X521-vendor-blobs.mk)
